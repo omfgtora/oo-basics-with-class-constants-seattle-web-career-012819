@@ -10,7 +10,7 @@ class Book
     @@genres << self.genre
   end
   
-  def self.genres
+  def self.genre
     @@genres
   end
 
